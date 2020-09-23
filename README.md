@@ -2,6 +2,7 @@
 +   # Creator: 🌈SIXNOTEAM/🌈sakkarin su......
 
 + ## Download&Install / โหลดและติดตั้ง
+ #### git clone https://github.com/SIXNO-HACK/sakkarin-bot.git
  #### cd sakkarin-bot
  #### chmod +x sakkarin-bot.py
  #### python sakkarin-bot.py
